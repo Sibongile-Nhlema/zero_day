@@ -1,1 +1,1 @@
-Vagrant optional task. Week 0
+Mandatory README.md file
